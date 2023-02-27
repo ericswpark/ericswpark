@@ -4,8 +4,8 @@ I'm Eric Park, a South Korean developer. [Check out my website for more informat
 
 [my-website]: https://ericswpark.com
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericswpark)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericswpark&layout=compact&langs_count=10&exclude_repo=android_kernel_samsung_msm8974,android_device_samsung_frescolteskt,SM-N750S_KOR_LL_Opensource,SCH-I909_CHN_GB_Opensource_Update1&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericswpark)](https://github.com/ericswpark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericswpark&layout=compact&langs_count=10&exclude_repo=android_kernel_samsung_msm8974,android_device_samsung_frescolteskt,SM-N750S_KOR_LL_Opensource,SCH-I909_CHN_GB_Opensource_Update1&hide=html)](https://github.com/ericswpark)
 
 If you like what I'm doing, please consider [supporting me by using GitHub Sponsors][github-sponsors-link].
 
