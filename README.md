@@ -12,7 +12,7 @@ I currently work at the non-profit [BlissLabs][blisslabs-website] as a backend d
 
 If you like what I'm doing, please consider [supporting me by using GitHub Sponsors][github-sponsors-link].
 
-You can also buy me a coffee:
+You can also...
 
 <a href="https://www.buymeacoffee.com/ericswpark" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
