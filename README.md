@@ -20,6 +20,7 @@ I currently work at the non-profit [BlissLabs][blisslabs-website] as a backend d
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg)
