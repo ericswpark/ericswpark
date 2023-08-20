@@ -2,9 +2,10 @@
 
 I'm Eric Park, a South Korean developer. [Check out my website for more information!][my-website]
 
-I currently work at the non-profit [BlissLabs][blisslabs-website] as a backend developer.
+I currently study at [Purdue][purdue]. I also work at the non-profit [BlissLabs][blisslabs-website] as a backend developer.
 
 [my-website]: https://ericswpark.com
+[purdue]: https://purdue.edu
 [blisslabs-website]: https://blisslabs.org
 
 ## Statistics
