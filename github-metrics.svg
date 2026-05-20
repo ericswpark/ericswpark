@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="895" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="878" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">B.S. CS (Systems + SWE) '26 @purdue, fullstack developer @BlissRoms</div>
+                        <div class="introduction">Developer,. CS (Systems + SWE) from @purdue</div>
                     </section>
                 </div>
             </section>
@@ -2310,7 +2310,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 May 2026, 09:38:28 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2026, 10:41:18 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
