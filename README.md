@@ -1,10 +1,8 @@
 # Hi!
 
-I'm Eric Park, developer of random projects. I currently study at [Purdue][purdue]. I also work at the non-profit [BlissLabs][blisslabs-website] as a fullstack developer. [Check out my website for more information!][my-website]
+I'm Eric. You should [check out my website][my-website] for more information!
 
 [my-website]: https://ericswpark.com
-[purdue]: https://purdue.edu
-[blisslabs-website]: https://blisslabs.org
 
 <details>
 <summary>Metrics</summary>
@@ -26,17 +24,4 @@ I'm Eric Park, developer of random projects. I currently study at [Purdue][purdu
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg)
 ![Javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-</details>
-
-<details>
-<summary>Donations</summary>
- 
-If you like what I'm doing, please consider [supporting me by using GitHub Sponsors][github-sponsors-link].
-
-You can also...
-
-<a href="https://www.buymeacoffee.com/ericswpark" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-
-[github-sponsors-link]: https://github.com/sponsors/ericswpark
 </details>
